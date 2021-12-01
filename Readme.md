@@ -7,7 +7,7 @@ This folder contains the work for the Breast Cancer prediction project.
 
 ## [Table of Contents](#table-of-contents)
 1. Docs  
-    - [Final Report](https://github.com/avel848895/Breast-Cancer-Prediction/blob/master/docs/Capstone%202%20-%20Project%20Report%20Final%20(4).pdf)  
+    - [Final Report](https://github.com/avel848895/Breast-Cancer-Prediction/blob/master/docs/Wisconsin%20Breast%20Cancer%20Prediction-%20Project%20Report.pdf)  
    Report containing data wrangling, exploratory data analysis, and machine learning explanation for the project
     - [Presentation](https://github.com/avel848895/Breast-Cancer-Prediction/blob/master/docs/Presentation_Wisconsin%20Breast%20Cancer%20prediction.pdf)  
     Powerpoint Presentation containing complete summary and findings for the project.
